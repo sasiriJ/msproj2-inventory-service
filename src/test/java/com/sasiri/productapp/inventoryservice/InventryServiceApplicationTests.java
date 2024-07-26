@@ -1,4 +1,4 @@
-package com.sasiri.productapp.inventryservice;
+package com.sasiri.productapp.inventoryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

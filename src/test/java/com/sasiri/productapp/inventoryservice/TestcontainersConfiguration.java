@@ -1,4 +1,4 @@
-package com.sasiri.productapp.inventryservice;
+package com.sasiri.productapp.inventoryservice;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

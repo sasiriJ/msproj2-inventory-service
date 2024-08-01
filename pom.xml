@@ -11,8 +11,8 @@
     <groupId>com.sasiri.productapp</groupId>
     <artifactId>inventry-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>inventry-service</name>
-    <description>inventry-service</description>
+    <name>inventory-service</name>
+    <description>inventory-service</description>
     <url/>
     <licenses>
         <license/>
